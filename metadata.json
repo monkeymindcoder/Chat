@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Chat",
+  "description": "AI-powered real-time chat application with Google Authentication and Gemini integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
